@@ -1,14 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Post 1"
+    "title": "Dairy Milk",
+    "price": "1",
+    "category": "choclate",
+    "description": "Dairy Milk",
+    "image": "https://media.istockphoto.com/id/469741712/photo/bar-of-cadbury-dairy-milk-chocolate-2011.jpg?s=1024x1024&w=is&k=20&c=cF0o-5MONzUC4ZMJJj5xk7mGYYg29rALb4x_74tJZyE="
   },
   {
     "id": 2,
-    "title": "Post 2"
+    "title": "Dairy Milk",
+    "price": "1",
+    "category": "choclate",
+    "description": "Dairy Milk",
+    "image": "https://media.istockphoto.com/id/469741712/photo/bar-of-cadbury-dairy-milk-chocolate-2011.jpg?s=1024x1024&w=is&k=20&c=cF0o-5MONzUC4ZMJJj5xk7mGYYg29rALb4x_74tJZyE="
   },
   {
     "id": 3,
-    "title": "Post 3"
+    "title": "Dairy Milk",
+    "price": "1",
+    "category": "choclate",
+    "description": "Dairy Milk",
+    "image": "https://media.istockphoto.com/id/469741712/photo/bar-of-cadbury-dairy-milk-chocolate-2011.jpg?s=1024x1024&w=is&k=20&c=cF0o-5MONzUC4ZMJJj5xk7mGYYg29rALb4x_74tJZyE="
   }
 ]
